@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\middleware",
+    "\\server\\models",
+    "\\server\\routers"
+  ],
+  "SelectedNode": "\\server\\models\\Cart.js",
+  "PreviewInSolutionExplorer": false
+}
