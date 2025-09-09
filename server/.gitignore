@@ -4,5 +4,5 @@ build/
 dist/
 *.log
 .vscode/
-.vs
+.vs/
 .DS_Store
